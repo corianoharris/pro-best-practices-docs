@@ -1,0 +1,9 @@
+# Stylelint runs on everything by default; we only lint CSS files.
+
+- !_/
+  !_.css
+  **tests**/
+  build
+  coverage
+  examples/
+  website/static/katex/katex.min.css
