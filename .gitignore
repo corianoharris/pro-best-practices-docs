@@ -16,6 +16,6 @@ coverage
 .docusaurus
 .cache-loader
 types
-test-website
-test-website-in-workspace
+
+.netlify
 
