@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@main
 
       - name: Publish
-        uses: netlify/actions/build@main
+        uses: netlify/actions/build@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NETLIFY_SITE_ID: 7159b05c-3cc0-429f-9cb9-ee4794056c0d
