@@ -78,9 +78,11 @@ dogfooding
 dojocat
 dyte
 easyops
-endi
-endilie
-endiliey
+harris
+Harris
+Coriano
+coriano
+harrisc
 entrypoints
 errnametoolong
 esbenp
@@ -278,7 +280,6 @@ setext
 showinfo
 sida
 simen
-slorber
 sluggified
 sluggifies
 sluggify
