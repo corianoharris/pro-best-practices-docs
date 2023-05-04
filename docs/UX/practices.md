@@ -12,6 +12,8 @@ UX best practices to keep in mind:
 
 - **Consistency**: Use consistent design patterns and elements throughout the interface to create a sense of familiarity and predictability for users.
 
+- **Brand and Voice**: Understand the brand and communicate the appropriate tone.
+
 - **Accessibility**: Ensure that the interface is accessible to users with disabilities and meets accessibility guidelines.
 
 - **Performance**: Optimize the performance of the interface to ensure fast loading times and smooth interactions.

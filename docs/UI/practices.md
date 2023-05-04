@@ -36,7 +36,13 @@ Help create a user-friendly and effective interface that meets the needs of the 
 
 - **Plan Your Forms Carefully**: How many form fields are visible on the screen at a single time? Like buttons, the number of form fields should be reduced to the minimal number possible that can still provide context and ease-of-use.
 
-  - **_Always Use a Single Colum_**: The best practice for designing forms is to put input fields in a single column. This will make it easier for the end-user to continue their flow down the page and check off each section
+- **Limit Cognitive Load**: Try to limit the amount information a user needs to understand and retain to complete a task.
+
+- **Limit Visual Load**: Try to limit the amount visual distractions to complete a task.
+
+- **Limit Kinesthetic Load**: Try to limit the amount physical interactions a user needs to complete a task.
+
+  - **_Always Use a Single Colum_**: The best practice for designing forms is to put inputng fields in a single column. This will make it easier for the end-user to continue their flow down the page and check off each section
 
   - **_Think About the Story You Are Telling_**: When you think about the story you are telling, look for the best points to break up your forms into multiple pages. Doing so will give you visual space to create breathing room for the end-user and explain to them what they are doing and why it is important.
 
