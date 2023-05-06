@@ -10,7 +10,7 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
-    "serve": "docusaurus serve",
+    "serve": "yarn build && docusaurus serve",
     "postinstall": "yarn lock:update && yarn build",
     "prepare": "husky install",
     "format": "prettier --write .",
