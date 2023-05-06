@@ -10,7 +10,7 @@ This calculates the number of users clicks to comeplete task.
 
 MCTC formula:
 
-**_number of components + number of screens / number of users interaction_**
+**_number of components + number of screens / number of users events_**
 
 **Example: ( 2 + 2 ) / 4 = 1**
 
