@@ -6,4 +6,4 @@ sidebar_position: 4
 
 ## JavaScript & React
 
-- ![AirBnB](https://airbnb.io/javascript)
+- [AirBnB](https://airbnb.io/javascript/)
