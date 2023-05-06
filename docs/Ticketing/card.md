@@ -19,4 +19,4 @@ sidebar_position: 4
   - User value (UV): 1, 2, 3, 5, 8
   - Technical work value (TWV): 1, 2, 3, 5, 8
 
-  # formula: B + UV + TWV / 3
+  ### formula: B + UV + TWV / 3

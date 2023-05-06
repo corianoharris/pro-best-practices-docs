@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Ticket Statuses List
+# Ticket Statuses
 
 - **Backlog**: list of tasks required
 - **Sprint**: Timeline to complete specific tasks
