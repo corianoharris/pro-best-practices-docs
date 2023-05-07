@@ -54,32 +54,32 @@ sidebar_position: 4
 
 ## Best practices for creating and handling pull requests
 
-- Keep pull requests small and focused: Each pull request should contain a single feature or bug fix. This makes it easier for reviewers to understand the changes and reduces the risk of conflicts with other changes.
+- **Keep pull requests small and focused**: Each pull request should contain a single feature or bug fix. This makes it easier for reviewers to understand the changes and reduces the risk of conflicts with other changes.
 
-- Provide clear and concise descriptions: The pull request description should explain the purpose of the changes, any dependencies or requirements, and any known issues or limitations. This helps reviewers understand the changes and provide feedback more efficiently.
+- **Provide clear and concise descriptions**: The pull request description should explain the purpose of the changes, any dependencies or requirements, and any known issues or limitations. This helps reviewers understand the changes and provide feedback more efficiently.
 
-- Include relevant information in the title: The pull request title should summarize the changes and include relevant information, such as the issue number or feature name. This makes it easier to track and manage changes.
+- **Include relevant information in the title**: The pull request title should summarize the changes and include relevant information, such as the issue number or feature name. This makes it easier to track and manage changes.
 
-- Test the changes thoroughly: Before creating a pull request, ensure that the changes have been tested thoroughly and pass all relevant tests. This reduces the risk of introducing bugs or breaking existing functionality.
+- **Test the changes thoroughly**: Before creating a pull request, ensure that the changes have been tested thoroughly and pass all relevant tests. This reduces the risk of introducing bugs or breaking existing functionality.
 
-- Respond to feedback promptly: When reviewers provide feedback on the pull request, respond promptly and address the feedback as soon as possible. This helps ensure that the changes are merged quickly and reduces the risk of conflicts with other changes.
+- **Respond to feedback promptly**: When reviewers provide feedback on the pull request, respond promptly and address the feedback as soon as possible. This helps ensure that the changes are merged quickly and reduces the risk of conflicts with other changes.
 
-- Keep the codebase clean: When making changes, ensure that the codebase remains clean and follows best practices, such as using consistent coding conventions, avoiding unnecessary complexity, and keeping code modular and maintainable.
+- **Keep the codebase clean**: When making changes, ensure that the codebase remains clean and follows best practices, such as using consistent coding conventions, avoiding unnecessary complexity, and keeping code modular and maintainable.
 
-- Use branches effectively: Use branches effectively to manage changes and reduce the risk of conflicts. Create separate branches for each feature or bug fix, and merge changes into the main branch as soon as they are tested and approved.
+- **Use branches effectively**: Use branches effectively to manage changes and reduce the risk of conflicts. Create separate branches for each feature or bug fix, and merge changes into the main branch as soon as they are tested and approved.
 
 ## Best practices for writing clear and effective commit messages
 
-- Keep commit messages concise: Commit messages should be short and to the point, ideally no more than 50 characters. This makes it easier to read and understand changes at a glance.
+- **Keep commit messages concise**: Commit messages should be short and to the point, ideally no more than 50 characters. This makes it easier to read and understand changes at a glance.
 
-- Use the imperative mood: Use the imperative mood in the subject line of the commit message, as if you were giving a command. For example, "Fix a bug" instead of "Fixed a bug" or "Fixes the bug".
+- **Use the imperative mood**: Use the imperative mood in the subject line of the commit message, as if you were giving a command. For example, "Fix a bug" instead of "Fixed a bug" or "Fixes the bug".
 
-- Include a summary in the subject line: The subject line should provide a summary of the changes made in the commit, and should be written in the present tense. For example, "Add a new feature", "Update documentation", or "Fix a typo".
+- **Include a summary in the subject line:** The subject line should provide a summary of the changes made in the commit, and should be written in the present tense. For example, "Add a new feature", "Update documentation", or "Fix a typo".
 
-- Provide additional details in the body: Use the body of the commit message to provide additional details about the changes made, including any relevant context or background information. This can help other developers understand the changes more clearly.
+- **Provide additional details in the body**: Use the body of the commit message to provide additional details about the changes made, including any relevant context or background information. This can help other developers understand the changes more clearly.
 
-- Use bullet points to break up the message: If the commit message is long or includes multiple changes, use bullet points to break up the message and make it easier to read.
+- **Use bullet points to break up the message**: If the commit message is long or includes multiple changes, use bullet points to break up the message and make it easier to read.
 
-- Use references to related issues or pull requests: If the commit is related to a specific issue or pull request, include a reference to it in the commit message. For example, "Fix #1234", where 1234 is the issue number.
+- **Use references to related issues or pull requests**: If the commit is related to a specific issue or pull request, include a reference to it in the commit message. For example, "Fix #1234", where 1234 is the issue number.
 
-- Use a consistent style: Use a consistent style for commit messages across your team or organization. This can help make the commit history more readable and easier to understand.
+- **Use a consistent style**: Use a consistent style for commit messages across your team or organization. This can help make the commit history more readable and easier to understand.
